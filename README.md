@@ -7,7 +7,7 @@
 
 ```npm install```  
 
-testを通すために.envファイルが必要なので.env.exampleをcopyして.envファイルを作成してください。中身はそのままで大丈夫です。
+testを通すために.envファイルが必要なので.env.exampleをcopyして.envファイルを作成してください。中身はそのままで大丈夫です。  
 ```npx run test```
 
 
