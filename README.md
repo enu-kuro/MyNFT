@@ -31,3 +31,8 @@ Testnet Mumbaiにdeployします。
 
 Etherscan(Polygon Scan)のAPI keyがある場合は以下のコマンドでソースコードをverifyできます。  
 ```npx hardhat verify --network mumbai [Contract Address]```
+
+
+## MetamaskへのPolygon Testnet Mumbaiの追加
+こちらを参考にしてください。
+https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/
