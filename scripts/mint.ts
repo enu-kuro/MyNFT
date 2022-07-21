@@ -1,6 +1,6 @@
 import { ethers } from "hardhat";
 
-const CONTRACT_ADDRESS = "0xb9Aa10890b019AF260dF83740bD36cDf042209FB";
+const CONTRACT_ADDRESS = "deployしたCONTRACTのADDRESSを入れてください";
 const BAYC_TOKEN_URI =
   "https://bafybeihpjhkeuiq3k6nqa3fkgeigeri7iebtrsuyuey5y6vy36n345xmbi.ipfs.dweb.link/2";
 
